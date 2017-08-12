@@ -1,6 +1,6 @@
 # ninjaben/jupyter-matlab-support
 # 
-# Create an image with jupyterhub and enough dependencies to support a mounted-in matlab and the jypyter matlab kernel.
+# Create an image with jupyterhub and enough dependencies to support a mounted-in matlab and the jupyter matlab kernel.
 #
 # Expects you to mount in a matlab installation at "/usr/local/MATLAB/from-host".
 # Expects you to mount in a folder to receive the execution log at "/var/log/matlab".
